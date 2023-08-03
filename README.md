@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple Snake game implemented in Java using Swing. The player controls a snake on a grid-based board, and the goal is to eat apples that randomly appear on the board, making the snake grow longer. The game ends if the snake collides with itself or the board's boundaries.
+This is a simple Snake game inspired by the famous [Snake Game](https://g.co/kgs/k8VnSC). This was implemented in Java using Swing. The player controls a snake on a grid-based board, and the goal is to eat apples that randomly appear on the board, making the snake grow longer. The game ends if the snake collides with itself or the board's boundaries.
 
 ## How to Play
 
