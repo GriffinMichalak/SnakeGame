@@ -1,4 +1,4 @@
-# Snake Game (Java, for now)
+# Snake Game
 
 ## Introduction
 
