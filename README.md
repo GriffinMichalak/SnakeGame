@@ -5,8 +5,10 @@
 This is a simple Snake game inspired by the famous [Snake Game](https://g.co/kgs/k8VnSC). This was implemented in Java using Swing. The player controls a snake on a grid-based board, and the goal is to eat apples that randomly appear on the board, making the snake grow longer. The game ends if the snake collides with itself or the board's boundaries.
 
 ## Screenshots
-<img width="597" alt="Snake" src="https://github.com/GriffinMichalak/Snake-Game/assets/81431781/7ffb122f-97c5-4b98-9dde-6a42d96bb0eb">
-<img width="593" alt="GameOver" src="https://github.com/GriffinMichalak/Snake-Game/assets/81431781/91534602-43f2-4201-8fe5-2cf272e536e4">
+<div style="display:flex; justify-content:space-between">
+  <img width="297" alt="Snake" src="https://github.com/GriffinMichalak/Snake-Game/assets/81431781/7ffb122f-97c5-4b98-9dde-6a42d96bb0eb">
+  <img width="297" alt="GameOver" src="https://github.com/GriffinMichalak/Snake-Game/assets/81431781/91534602-43f2-4201-8fe5-2cf272e536e4">
+</div>
 
 
 ## How to Play
