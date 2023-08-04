@@ -5,7 +5,16 @@ const boxSize = 20;
 const canvasSize = 400;
 const maxSpeed = 200; // Adjust this for the speed of the snake
 
-let snake = [{ x: 200, y: 200 }];
+// Initialize the snake with a length of 6
+let snake = [
+  { x: 200, y: 200 },
+  { x: 180, y: 200 },
+  { x: 160, y: 200 },
+  { x: 140, y: 200 },
+  { x: 120, y: 200 },
+  { x: 100, y: 200 }
+];
+
 let food = { x: 0, y: 0 };
 let direction = 'right';
 let changingDirection = false;
@@ -21,6 +30,7 @@ function generateFood() {
     }
   }
 }
+
 
 function draw() {
   ctx.clearRect(0, 0, canvasSize, canvasSize);
